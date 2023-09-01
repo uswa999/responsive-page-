@@ -1,0 +1,32 @@
+article {
+  margin: 0 auto;
+  max-width: 50em;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  margin: 0 auto 1em auto;
+  width: 800px;
+}
+
+img {
+  max-width: 100%;
+}
+.zocial{
+    margin-left:210px;
+  }
+  .still-life{
+    width:5000px;
+  }
+  .unicode{
+    font-size: 70px;
+  }
+  .paragraph{
+    width:730px;
+    margin-left: 37px;
+
+  }
